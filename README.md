@@ -51,6 +51,7 @@ Thank you so much to our Patreons that make the future development possible! You
   - The device must be on iOS 15.0-16.2
 - Linux or macOS computer
   - Python 3 must be installed.
+  - libimobiledevice-utils must be installed to exit recovery mode
 
 ### A10 and A11 devices (list of which can be found [here](https://pastebin.com/tBbH6vnr))
 - On A10 and A11, **you must disable your passcode while in the jailbroken state**.
