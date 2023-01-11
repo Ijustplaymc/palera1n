@@ -71,7 +71,7 @@ All repos work when using tweaks mode because it uses normal Procursus and not r
 Repos need to be updated for rootless, here are some that work currently:
 
 - [Mineek's repo](https://mineek.github.io/repo) contains rootless Procursus packages
-- The official [palera1n repo](https://repo.palera.in) contains miscellaneous packages
+- The official [palera1n repo](https://repo.palera.in) contains miscellaneous packages(Only use on rootless)
 
 If you want to make a rootless repo, use the official [palera1n repo](https://github.com/palera1n/repo) for reference. Every deb should use the `iphoneos-arm64` architecture, and *nothing* should be on the rootfs. Everything should be in /var/jb.
 
